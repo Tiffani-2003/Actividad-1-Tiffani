@@ -36,18 +36,13 @@ Los estilos embellecen la página:
 
     Se muestra una tarjeta (perfil) centrada con:
 
-        El logo de ESPE
-
-        Foto de la persona
-
-        Nombre, correo, universidad e ID
-
-        Botón verde para enviar correo
+        El logo de ESPE, Foto de la persona, Nombre, correo, universidad e ID y  Botón verde para enviar correo
 
 Imagen de como nos quedo nuestro Perfil:
+![Perfil de Tiffani Torres](https://i.ibb.co/PztwMfbw/Perfil.png)
 
 
-![Captura de pantalla del perfil](https://i.ibb.co/PztwMfbw/Perfil.png)
+
 
 
         
