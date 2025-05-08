@@ -3,11 +3,13 @@ Breve explicación de como se hizo :
 
 Estructura HTML (index.html)
  crea el contenido de la página web:
+ 
 <!DOCTYPE html>
 <html lang="es">
 <head> ... </head>
 <body> ... </body>
 </html>
+
 Dentro del body , se incluyen:
 
     Logo de ESPE: se usa una imagen de internet (<img src="URL">)
