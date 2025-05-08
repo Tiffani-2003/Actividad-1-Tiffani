@@ -51,7 +51,8 @@ Los estilos embellecen la página:
 
 ## Visualización del Perfil
 
-![Perfil de Tiffani Torres](https://i.ibb.co/bDbq6QC/perfil-1.png)
+
+![imagen](https://github.com/user-attachments/assets/1e2e8d4c-1d6a-459d-8575-d35806f1d9ad)
 
 
 
