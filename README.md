@@ -1,11 +1,11 @@
 Estructura HTML (index.html)
-Este código HTML crea el contenido de la página web:
+ crea el contenido de la página web:
 <!DOCTYPE html>
 <html lang="es">
 <head> ... </head>
 <body> ... </body>
 </html>
-Dentro del (<body>), se incluyen:
+Dentro del body, se incluyen:
 
     Logo de ESPE: se usa una imagen de internet (<img src="URL">)
 
@@ -17,7 +17,7 @@ Dentro del (<body>), se incluyen:
 
     Botón de contacto: al dar clic abre tu correo para escribirle
 
-Estilos CSS (<style> en el <head>)
+Estilos CSS, style en el head
 
 Los estilos embellecen la página:
 
