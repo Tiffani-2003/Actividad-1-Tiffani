@@ -8,7 +8,7 @@ Crea el contenido de la página web:
 ![Captura de pantalla del perfil](https://i.ibb.co/hJrznRfg/C-digo.png)
 
 
-Dentro del body, se incluyen:
+**Dentro del body, se incluyen:**
 
     Logo de ESPE: se usa una imagen de internet (<img src="URL">)
 
@@ -21,7 +21,7 @@ Dentro del body, se incluyen:
     Botón de contacto: al dar clic abre tu correo para escribirle
 
 
-Estilos CSS (style en el head )
+**Estilos CSS (style en el head )**
 
 Los estilos embellecen la página:
 
@@ -65,6 +65,10 @@ Y prácticamente se nos abre nuestro gmail para poder redactar escribimos el asu
 
 
 ![imagen](https://github.com/user-attachments/assets/7b0c41be-7dd8-49ed-8813-8e5683e9640d)
+
+
+**FIN**
+
 
 
 
