@@ -1,12 +1,6 @@
 ### PARTE 1 
 Breve explicación de como se hizo : 
 
-Estructura HTML (index.html)
- crea el contenido de la página web:
-
-
-![Captura de pantalla del perfil](https://i.ibb.co/hJrznRfg/C-digo.png)
-
 Dentro del body, se incluyen:
 
     Logo de ESPE: se usa una imagen de internet (<img src="URL">)
