@@ -4,11 +4,9 @@ Breve explicación de como se hizo :
 Estructura HTML (index.html)
  crea el contenido de la página web:
  
-   <!DOCTYPE html>
-   <html lang="es">
-   <head> ... </head>
-   <body> ... </body>
-   </html>
+ ## Visualización del Perfil
+
+![Captura de pantalla del perfil](https://ibb.co/rRqrLGsQ)
 
 Dentro del body , se incluyen:
 
