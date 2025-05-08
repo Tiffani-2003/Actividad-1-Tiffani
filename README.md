@@ -1,4 +1,4 @@
-PARTE 1 
+### PARTE 1 
 Breve explicación de como se hizo : 
 
 Estructura HTML (index.html)
@@ -8,7 +8,7 @@ Estructura HTML (index.html)
 <head> ... </head>
 <body> ... </body>
 </html>
-Dentro del body, se incluyen:
+Dentro del body , se incluyen:
 
     Logo de ESPE: se usa una imagen de internet (<img src="URL">)
 
