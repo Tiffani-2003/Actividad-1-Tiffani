@@ -26,16 +26,6 @@ Los estilos embellecen la página:
     .boton: botón verde que cambia de color al pasar el mouse
     Resultado Final
 
-    Se muestra una tarjeta (perfil) centrada con:
-
-      El logo de ESPE
-
-     Foto de la persona
-
-     Nombre, correo, universidad e ID
-
-     Botón verde para enviar correo
-
 ![Perfil de Tiffani Torres](https://i.ibb.co/PztwMfbw/Perfil.png)
 
 
