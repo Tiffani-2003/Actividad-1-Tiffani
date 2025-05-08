@@ -46,6 +46,8 @@ Los estilos embellecen la página:
 
 Imagen de como nos quedo nuestro Perfil:
 
+
 ![Captura de pantalla del perfil](https://i.ibb.co/PztwMfbw/Perfil.png)
+
 
         
