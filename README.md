@@ -3,10 +3,9 @@ Breve explicación de como se hizo :
 
 Estructura HTML (index.html)
  crea el contenido de la página web:
- 
- ## Visualización del Perfil
 
-![Captura de pantalla del perfil](https://ibb.co/rRqrLGsQ)
+
+![Captura de pantalla del perfil](https://i.ibb.co/hJrznRfg/C-digo.png)
 
 Dentro del body , se incluyen:
 
