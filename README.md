@@ -44,4 +44,8 @@ Los estilos embellecen la página:
 
         Botón verde para enviar correo
 
+Imagen de como nos quedo nuestro Perfil:
+
+![Captura de pantalla del perfil](https://i.ibb.co/PztwMfbw/Perfil.png)
+
         
