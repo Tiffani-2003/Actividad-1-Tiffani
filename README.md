@@ -1,9 +1,11 @@
 ### PARTE 1 
 
-https://i.ibb.co/PztwMfbw/Perfil.png
+Estructura HTML (index.html)
+
+Crea el contenido de la página web:
 
 
-
+![Captura de pantalla del perfil](https://i.ibb.co/hJrznRfg/C-digo.png)
 
 
 
