@@ -1,7 +1,7 @@
 ### PARTE 1 
 
 
-![Perfil de Tiffani Torres](<a href="https://ibb.co/HpXnCkMn"><img src="https://i.ibb.co/PztwMfbw/Perfil.png" alt="Perfil" border="0"></a>)
+(<a href="https://ibb.co/HpXnCkMn"><img src="https://i.ibb.co/PztwMfbw/Perfil.png" alt="Perfil" border="0"></a>)
 
 
 
