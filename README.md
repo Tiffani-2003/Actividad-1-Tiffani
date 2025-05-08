@@ -21,7 +21,7 @@ Dentro del body, se incluyen:
     Botón de contacto: al dar clic abre tu correo para escribirle
 
 
-Estilos CSS (<style> en el <head>)
+Estilos CSS (style en el head )
 
 Los estilos embellecen la página:
 
