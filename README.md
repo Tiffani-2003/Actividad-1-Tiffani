@@ -58,7 +58,8 @@ Los estilos embellecen la página:
 De ahí seleccionamos en contactar y se nos abre la siguiente página: 
 
 
-![imagen](https://github.com/user-attachments/assets/b1dbf67c-85b3-41b8-bd0e-bb22156e6996)
+![imagen](https://github.com/user-attachments/assets/ff4235ec-0f20-45cf-9204-bc8b42a0891d)
+
 
 
 
