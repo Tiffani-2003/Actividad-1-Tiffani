@@ -11,9 +11,7 @@ Dentro del body, se incluyen:
 
     Logo de ESPE: se usa una imagen de internet (<img src="URL">)
 
-    Título del perfil: con <h1>
-
-    Foto de Tiffani Torres: otra imagen con su link
+    Título del perfil: con <h1> , Foto de Tiffani Torres: otra imagen con su link
 
     Datos personales: nombre, correo, universidad e ID usando <p> y <strong> para resaltar
 
