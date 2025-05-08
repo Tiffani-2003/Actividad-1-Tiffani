@@ -1,4 +1,4 @@
-1. Estructura HTML (index.html)
+Estructura HTML (index.html)
 Este código HTML crea el contenido de la página web:
 <!DOCTYPE html>
 <html lang="es">
@@ -16,7 +16,8 @@ Dentro del <body>, se incluyen:
     Datos personales: nombre, correo, universidad e ID usando <p> y <strong> para resaltar
 
     Botón de contacto: al dar clic abre tu correo para escribirle
-    2. Estilos CSS (<style> en el <head>)
+
+Estilos CSS (<style> en el <head>)
 
 Los estilos embellecen la página:
 
