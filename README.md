@@ -7,7 +7,7 @@ Estructura HTML (index.html)
 
 ![Captura de pantalla del perfil](https://i.ibb.co/hJrznRfg/C-digo.png)
 
-Dentro del body , se incluyen:
+Dentro del body, se incluyen:
 
     Logo de ESPE: se usa una imagen de internet (<img src="URL">)
 
@@ -36,10 +36,51 @@ Los estilos embellecen la página:
 
     Se muestra una tarjeta (perfil) centrada con:
 
-        El logo de ESPE, Foto de la persona, Nombre, correo, universidad e ID y  Botón verde para enviar correo
+      El logo de ESPE
 
-Imagen de como nos quedo nuestro Perfil:
+     Foto de la persona
+
+     Nombre, correo, universidad e ID
+
+     Botón verde para enviar correo
+
+Quedándonos de la siguiente manera: 
+
 ![Perfil de Tiffani Torres](https://i.ibb.co/PztwMfbw/Perfil.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
 
 
 
