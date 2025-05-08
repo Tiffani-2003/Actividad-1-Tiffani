@@ -1,3 +1,5 @@
+PARTE 1 
+Breve explicación de como se hizo : 
 Estructura HTML (index.html)
  crea el contenido de la página web:
 <!DOCTYPE html>
