@@ -51,13 +51,7 @@ Los estilos embellecen la página:
 
 ## Visualización del Perfil
 
-git add README.md https://i.ibb.co/bDbq6QC/perfil-1.png # Si la imagen está en la carpeta 'images'
-git commit -m "Añadida imagen de perfil al README"
-git push origin main  
-
-
-
-
+![Perfil de Tiffani Torres](https://i.ibb.co/bDbq6QC/perfil-1.png)
 
 
 
