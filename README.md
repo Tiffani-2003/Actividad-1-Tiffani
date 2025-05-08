@@ -51,7 +51,7 @@ Los estilos embellecen la página:
 
 ## Visualización del Perfil
 
-![Captura de pantalla del perfil](https://i.ibb.co/bDbq6QC/perfil-1.png)
+https://i.ibb.co/bDbq6QC/perfil-1.png
 
 
 
