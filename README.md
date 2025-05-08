@@ -1,8 +1,6 @@
 ### PARTE 1 
 
-
 https://i.ibb.co/PztwMfbw/Perfil.png
-
 
 
 
