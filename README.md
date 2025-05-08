@@ -61,6 +61,10 @@ De ahí seleccionamos en contactar y se nos abre la siguiente página y hacemos 
 ![imagen](https://github.com/user-attachments/assets/ff4235ec-0f20-45cf-9204-bc8b42a0891d)
 
 
+Y prácticamente se nos abre nuestro gmail para poder redactar escribimos el asunto y de ahí ponemos en enviar y listo 
+
+
+![imagen](https://github.com/user-attachments/assets/7b0c41be-7dd8-49ed-8813-8e5683e9640d)
 
 
 
