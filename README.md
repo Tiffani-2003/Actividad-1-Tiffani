@@ -67,7 +67,7 @@ Y prácticamente se nos abre nuestro gmail para poder redactar escribimos el asu
 ![imagen](https://github.com/user-attachments/assets/7b0c41be-7dd8-49ed-8813-8e5683e9640d)
 
 
-**FIN**
+# FIN 
 
 
 
