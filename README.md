@@ -36,8 +36,6 @@ Los estilos embellecen la página:
 
      Botón verde para enviar correo
 
-Quedándonos de la siguiente manera: 
-
 ![Perfil de Tiffani Torres](https://i.ibb.co/PztwMfbw/Perfil.png)
 
 
