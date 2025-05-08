@@ -5,7 +5,7 @@ Este código HTML crea el contenido de la página web:
 <head> ... </head>
 <body> ... </body>
 </html>
-Dentro del body, se incluyen:
+Dentro del (<body>), se incluyen:
 
     Logo de ESPE: se usa una imagen de internet (<img src="URL">)
 
